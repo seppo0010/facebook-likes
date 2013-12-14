@@ -1,0 +1,181 @@
+{
+  "name": "Flare", 
+  "children": [
+    {
+      "name": "Icelandic", 
+      "size": 1
+    }, 
+    {
+      "name": "Dutch", 
+      "size": 1
+    }, 
+    {
+      "name": "Fran\u00e7ais", 
+      "size": 10
+    }, 
+    {
+      "name": "Telugu", 
+      "size": 1
+    }, 
+    {
+      "name": "Middle English", 
+      "size": 2
+    }, 
+    {
+      "name": "Espa\u00f1ol de Argentina", 
+      "size": 4
+    }, 
+    {
+      "name": "Slovenian", 
+      "size": 1
+    }, 
+    {
+      "name": "Rioplatense Spanish", 
+      "size": 3
+    }, 
+    {
+      "name": "Arabic", 
+      "size": 1
+    }, 
+    {
+      "name": "Mandalorian", 
+      "size": 1
+    }, 
+    {
+      "name": "Old Japanese", 
+      "size": 1
+    }, 
+    {
+      "name": "Forro", 
+      "size": 1
+    }, 
+    {
+      "name": "Mandarin Chinese", 
+      "size": 1
+    }, 
+    {
+      "name": "Ucraniano", 
+      "size": 1
+    }, 
+    {
+      "name": "Portu\u00f1ol", 
+      "size": 2
+    }, 
+    {
+      "name": "Brazilian Portuguese", 
+      "size": 2
+    }, 
+    {
+      "name": "American English", 
+      "size": 2
+    }, 
+    {
+      "name": "Eslovaco", 
+      "size": 1
+    }, 
+    {
+      "name": "Marathi", 
+      "size": 1
+    }, 
+    {
+      "name": "Finland Swedish", 
+      "size": 1
+    }, 
+    {
+      "name": "Chino", 
+      "size": 1
+    }, 
+    {
+      "name": "Tamil", 
+      "size": 1
+    }, 
+    {
+      "name": "Bengali", 
+      "size": 1
+    }, 
+    {
+      "name": "Guaran\u00ed", 
+      "size": 1
+    }, 
+    {
+      "name": "Espa\u00f1ol", 
+      "size": 50
+    }, 
+    {
+      "name": "British English", 
+      "size": 1
+    }, 
+    {
+      "name": "Cantonese", 
+      "size": 1
+    }, 
+    {
+      "name": "Suajili", 
+      "size": 1
+    }, 
+    {
+      "name": "Chilean Spanish", 
+      "size": 2
+    }, 
+    {
+      "name": "English", 
+      "size": 58
+    }, 
+    {
+      "name": "Yucatec Maya", 
+      "size": 1
+    }, 
+    {
+      "name": "Spanglish", 
+      "size": 1
+    }, 
+    {
+      "name": "Croatian", 
+      "size": 1
+    }, 
+    {
+      "name": "Portuguese", 
+      "size": 10
+    }, 
+    {
+      "name": "Coreano", 
+      "size": 1
+    }, 
+    {
+      "name": "Uruguayan Sign Language", 
+      "size": 1
+    }, 
+    {
+      "name": "Chinese", 
+      "size": 1
+    }, 
+    {
+      "name": "Deutsch", 
+      "size": 2
+    }, 
+    {
+      "name": "Italiano", 
+      "size": 4
+    }, 
+    {
+      "name": "Surrealism", 
+      "size": 1
+    }, 
+    {
+      "name": "Hebrew", 
+      "size": 6
+    }, 
+    {
+      "name": "Northern Italian languages", 
+      "size": 1
+    }, 
+    {
+      "name": "Esperanto", 
+      "size": 1
+    }, 
+    {
+      "name": "Portugu\u00eas", 
+      "size": 8
+    }
+  ]
+}
