@@ -26,6 +26,8 @@ for root, dirs, files in os.walk('data'):
                 languages_curated.add(u'Deutsch')
             elif language['name'] in (u'Hebreo',):
                 languages_curated.add(u'Hebrew')
+            elif language['name'] in (u'Portuguese',):
+                languages_curated.add(u'Português')
             else:
                 languages_curated.add(language['name'])
 
